@@ -4,6 +4,8 @@ This is a Max For Live device that lets you use a USB Human Interface Device kno
 
 ![How it Looks](images/device.png)
 
+* [Video of it in action.](https://www.youtube.com/shorts/W_D2bYVQDyA)
+
 ## Installation
 
 Use a download link at the top or bottom of this page, or [download the newest .amxd file from the latest GitHub release](https://github.com/zsteinkamp/m4l-USBScrubber/releases) or clone [this repository](https://github.com/zsteinkamp/m4l-USBScrubber), and drag the `USBScrubber.amxd` device into a track in Ableton Live.
